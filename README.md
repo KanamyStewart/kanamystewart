@@ -9,7 +9,8 @@
 # Top Langs
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanamystewart&layout=compact)](https://github.com/kanamystewart/github-readme-stats)
-# Stats
+   
+# Status
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanamystewart&show_icons=true&theme=midnight-purple)
 
