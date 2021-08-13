@@ -17,15 +17,15 @@
 #### Contact with me:
 
 <a href="https://www.linkedin.com/in/kanamy-stewart-862351174/" target ="_blank">
-  <img align="center" alt="kanamy-linkedin" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+  <img align="center" alt="kanamy-linkedin" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
    style="max-width:100%;">
 </a>
 
 # My Skill's
 
-<img align="center" alt="java" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+<img align="center" alt="java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
    style="max-width:100%;">
-   <img align="center" alt="angular" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+   <img align="center" alt="angular" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
    style="max-width:100%;">
    
 
