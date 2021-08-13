@@ -21,6 +21,9 @@
   <img align="center" alt="kanamy-linkedin" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
    style="max-width:100%;">
 </a>
+<a href="kanamystewart@gmail.com" target ="_blank">
+  <img align="center" alt="kanamy-gmail" height="35" width="35" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"
+   style="max-width:100%;">
 
 # My Skill's
 
