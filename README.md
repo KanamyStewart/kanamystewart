@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I'm Kanamy Stewart
+# I'm Kanamy Stewart
 
 + I Live in 🇧🇷 
 + I'm currently working on Euax 🖥️
