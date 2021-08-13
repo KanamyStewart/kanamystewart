@@ -2,9 +2,10 @@
 
 # I'm Kanamy Stewart
 
-+ I Live in 🇧🇷 
-+ I'm currently working Euax  🖥️
-+ Learning to build Ruby and Ruby on Raills 🔰
++ I Live in 🇧🇷 I need coffe ☕
++ I'm currently working on Euax 🖥️
++ Learning to build Ruby and Ruby on Raills <img src="https://img.icons8.com/color/16/000000/ruby-programming-language.png"/>
++ Linux <img src="https://img.icons8.com/office/16/000000/console.png"/>
 
 # Top Langs
 
