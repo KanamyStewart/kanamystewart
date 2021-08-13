@@ -5,7 +5,6 @@
 + I Live in 🇧🇷 
 + I'm currently working Euax  🖥️
 + Learning to build Ruby and Ruby on Raills 🔰
-+ Linux 🐧
 
 # Top Langs
 
@@ -27,6 +26,8 @@
 <img align="center" alt="java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
    style="max-width:100%;">
    <img align="center" alt="angular" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+   style="max-width:100%;">
+   <img align="center" alt="angular" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
    style="max-width:100%;">
    
 
