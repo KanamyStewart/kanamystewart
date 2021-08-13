@@ -5,6 +5,7 @@
 + I Live in 🇧🇷 
 + I'm currently working Euax  🖥️
 + Learning to build Ruby and Ruby on Raills 🔰
++ Linux 🐧
 
 # Top Langs
 
