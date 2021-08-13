@@ -3,8 +3,8 @@
 # I'm Kanamy Stewart
 
 + I Live in 🇧🇷 
-+ I'm currently working on Euax 🖥️
-+ Learning to build ruby on rails 🔰
++ I'm currently working  🖥️
++ Learning to build  🔰
 
 # Top Langs
 
