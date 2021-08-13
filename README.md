@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/kanamy-stewart-862351174/" target ="_blank">
-  <img align="center" alt="kanamy-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg"
+  <img align="center" alt="kanamy-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg"
    style="max-width:100%;">
 </a>
 <!--
