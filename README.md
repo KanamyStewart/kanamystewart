@@ -4,7 +4,14 @@
 
 + I Live in 🇧🇷 
 + I'm currently working on Euax 🖥️
-+ Building in ruby ruby on raills 🔰
++ Learning to build ruby on rails 🔰
+
+# Top Langs
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanamystewart&layout=compact)](https://github.com/kanamystewart/github-readme-stats)
+# Stats
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanamystewart&show_icons=true&theme=radical)
 
 #### Contact with me:
 
@@ -13,6 +20,13 @@
    style="max-width:100%;">
 </a>
 
+# My Skill's
+
+<img align="center" alt="java" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+   style="max-width:100%;">
+   <img align="center" alt="angular" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+   style="max-width:100%;">
+   
 
 <!--
 **KanamyStewart/kanamystewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
