@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#I'm Kanamy Stewart
+
++ I Live in 🇧🇷 
++ I'm currently working on Euax 🖥️
++ Building in ruby ruby on raills 🔰
+
 #### Contact with me:
 
 <a href="https://www.linkedin.com/in/kanamy-stewart-862351174/" target ="_blank">
