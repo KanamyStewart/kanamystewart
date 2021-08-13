@@ -3,7 +3,7 @@
 #### Contact with me:
 
 <a href="https://www.linkedin.com/in/kanamy-stewart-862351174/" target ="_blank">
-  <img align="center" alt="kanamy-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
+  <img align="center" alt="kanamy-linkedin" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
    style="max-width:100%;">
 </a>
 
