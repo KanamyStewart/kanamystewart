@@ -1,6 +1,6 @@
 ### puts "Hello World!, I'm Kanamy Stewart." 
 
-<img align="center" alt="dragon-ball" height="250" width="980" src="https://pa1.narvii.com/6310/d044f052fdfeb7d9f662ac44f4d9111287cdae81_hq.gif"
+<img align="center" alt="spider-man" height="250" width="980" src="https://pa1.narvii.com/6310/d044f052fdfeb7d9f662ac44f4d9111287cdae81_hq.gif"
    style="max-width:100%;">
 
 
