@@ -1,4 +1,4 @@
-### puts "Hello World! I'm Kanamy Stewart" 
+### puts "Hello World!, I'm Kanamy Stewart." 
 
 <img align="center" alt="dragon-ball" height="250" width="980" src="https://pa1.narvii.com/6279/c1f0b92ecafc78ee20f78739ec7b2d5dbe008a54_hq.gif"
    style="max-width:100%;">
