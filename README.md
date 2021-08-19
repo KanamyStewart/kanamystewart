@@ -11,7 +11,7 @@
 
 # Top Langs
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanamyStewart&layout=compact)](https://github.com/KanamyStewart/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanamyStewart&layout=compact)](https://github.com/kanamystewart/github-readme-stats)
    
 # Status
 
