@@ -9,13 +9,16 @@
 + Learning to build Ruby and Ruby on Raills <img src="https://img.icons8.com/color/16/000000/ruby-programming-language.png"/>
 + Linux <img src="https://img.icons8.com/office/16/000000/console.png"/>
 
-# Top Langs
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanamyStewart&layout=compact)](https://github.com/KanamyStewart/github-readme-stats)
-   
+ 
 # Status
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanamystewart&show_icons=true&theme=midnight-purple)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanamyStewart&show_icons=true&theme=midnight-purple)
+
+# Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanamyStewart)](https://github.com/KanamyStewart/github-readme-stats)
+
+
 
 #### Contact with me:
 
