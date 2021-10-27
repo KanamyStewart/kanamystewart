@@ -1,12 +1,13 @@
 ### puts "Hello World!, I'm Kanamy Stewart." 
 
-<img align="center" alt="spider-man" height="250" width="980" src="https://pa1.narvii.com/6310/d044f052fdfeb7d9f662ac44f4d9111287cdae81_hq.gif"
+<img align="center" alt="spider-man" height="250" width="600" src="https://pa1.narvii.com/6310/d044f052fdfeb7d9f662ac44f4d9111287cdae81_hq.gif"
    style="max-width:100%;">
 
 
-+ I Live in 🇧🇷 I need coffe ☕
++ I Live in 🇧🇷 
++ I need coffe ☕
 + I'm currently working on Euax 🖥️
-+ Learning to build Ruby and Ruby on Raills <img src="https://img.icons8.com/color/16/000000/ruby-programming-language.png"/>
++ Building in Ruby on Raills <img src="https://img.icons8.com/color/16/000000/ruby-programming-language.png"/>
 + Linux <img src="https://img.icons8.com/office/16/000000/console.png"/>
 
  
@@ -30,6 +31,8 @@
 # My Skill's
 
 <img align="center" alt="java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+   style="max-width:100%;">
+   <img align="center" alt="ruby" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"
    style="max-width:100%;">
    <img align="center" alt="angular" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
    style="max-width:100%;">
