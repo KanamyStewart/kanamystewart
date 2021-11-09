@@ -34,8 +34,6 @@
    style="max-width:100%;">
    <img align="center" alt="ruby" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"
    style="max-width:100%;">
-   <img align="center" alt="angular" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-   style="max-width:100%;">
    <img align="center" alt="linux-um-pinguin" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
    style="max-width:100%;">
    
